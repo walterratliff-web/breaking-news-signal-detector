@@ -120,4 +120,5 @@ MIT
 
 ## Author
 
-Walter [Last Name] — [your professional tagline or link here]
+Walter Ratliff — [[your professional tagline or link here]
+](https://www.linkedin.com/in/walterratliff/)
