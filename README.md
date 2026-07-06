@@ -120,5 +120,4 @@ MIT
 
 ## Author
 
-Walter Ratliff — [LinkedIn profile]
-](https://www.linkedin.com/in/walterratliff/)
+Walter Ratliff — https://www.linkedin.com/in/walterratliff/
