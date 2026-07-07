@@ -77,7 +77,7 @@ This project implements the same core methodology — TF-IDF vectorization, cosi
 
 1. Open the notebook in Google Colab:
 
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/breaking-news-signal-detector/blob/main/breaking_news_detector.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/walterratliff-web/breaking-news-signal-detector/blob/main/breaking_news_detector.ipynb)
 
 2. Run all cells: **Runtime → Run all**
 
